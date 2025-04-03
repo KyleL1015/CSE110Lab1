@@ -1,1 +1,2 @@
-# CSE110Lab1
+Kyle's User Page
+I like python because it's so versatile and simple to understand.
