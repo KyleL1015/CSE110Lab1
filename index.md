@@ -14,7 +14,7 @@ idk I had to add something:
 ## Links for fun
 [Useless Websites!](https://theuselessweb.com)
 
-![In case you wanted to see the quote again](https://raw.githubusercontent.com/KyleL1015/CSE110Lab1/main/yeah.png)
+[In case you wanted to see the quote again](https://raw.githubusercontent.com/KyleL1015/CSE110Lab1/main/yeah.png)
 
 ## My Favorite Languages
 * Python
